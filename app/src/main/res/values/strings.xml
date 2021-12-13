@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="bill">Bill</string>
+    <string name="euro_symbol">€</string>
+    <string name="tip_percentage">Tip %</string>
+    <string name="tip">Tip</string>
+    <string name="total">Total</string>
+    <string name="reset">Reset</string>
+    <string name="diners">Diners</string>
+    <string name="per_diner">Per diner</string>
+    <string name="per_diner_rounded">Per diner rounded</string>
+    <string name="copy">Copy</string>
+    <string name="copied">%s copied to clipboard</string>
+    <string name="invalid_percentage">Invalid percentage</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="save">Save</string>
+    <string name="tips">Tips</string>
+    <string name="no_tips_found">No tips found</string>
+    <string name="tips_data">Bill: %.2f€ - Diners: %d</string>
+    <string name="tip_saved">Tip saved successfully</string>
+    <string name="delete_all">Delete all</string>
+    <string name="no_tips_to_delete">No tips to delete</string>
+    <string name="tips_deleted">Tips deleted successfully</string>
+    <string name="delete">Delete</string>
+    <string name="toggle_filter">Toggle filter</string>
+    <string name="search">Search</string>
+    <string name="tip_deleted">Tip deleted successfully</string>
+    <string name="operation_not_available">Operation not available</string>
+</resources>
