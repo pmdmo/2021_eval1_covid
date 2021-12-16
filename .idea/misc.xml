@@ -4,18 +4,24 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../../layout/custom_preview.xml" value="0.12685185185185185" />
+        <entry key="app/src/main/res/drawable/ic_baseline_content_copy_24.xml" value="0.37846153846153846" />
         <entry key="app/src/main/res/drawable/ic_baseline_list_24.xml" value="0.13148148148148148" />
         <entry key="app/src/main/res/drawable/ic_baseline_list_48.xml" value="0.13148148148148148" />
+        <entry key="app/src/main/res/drawable/ic_baseline_person_add_24.xml" value="0.37846153846153846" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.26944444444444443" />
         <entry key="app/src/main/res/layout-land/main_activity.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/add_character_activity.xml" value="0.36822916666666666" />
         <entry key="app/src/main/res/layout/bill.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/characters_activity.xml" value="0.36822916666666666" />
         <entry key="app/src/main/res/layout/diners.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/grid_activity.xml" value="0.36822916666666666" />
         <entry key="app/src/main/res/layout/main_activity.xml" value="0.1" />
         <entry key="app/src/main/res/layout/main_activity2.xml" value="0.27447916666666666" />
         <entry key="app/src/main/res/layout/restaurant.xml" value="0.1" />
         <entry key="app/src/main/res/layout/tips_activity.xml" value="0.1" />
         <entry key="app/src/main/res/layout/tips_item.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/grid_activity.xml" value="0.36822916666666666" />
         <entry key="app/src/main/res/menu/main_activity.xml" value="0.25833333333333336" />
         <entry key="app/src/main/res/menu/tips_activity.xml" value="0.36822916666666666" />
       </map>

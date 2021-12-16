@@ -1,11 +1,11 @@
-package es.iessaladillo.pedrojoya.tipcalculator.ui.tips
+package es.iessaladillo.pedrojoya.walkingdead.ui.add_character
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import es.iessaladillo.pedrojoya.tipcalculator.R
-import es.iessaladillo.pedrojoya.tipcalculator.utils.addMenuProvider
+import es.iessaladillo.pedrojoya.walkingdead.utils.addMenuProvider
 
-class TipsActivity : AppCompatActivity() {
+class AddCharacterActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -14,20 +14,15 @@ class TipsActivity : AppCompatActivity() {
     }
 
     private fun setupMenu() {
-        addMenuProvider(R.menu.tips_activity) { menuItem ->
+        addMenuProvider(R.menu.add_character_activity) { menuItem ->
             when (menuItem.itemId) {
-                R.id.mnuDeleteAll -> deleteAll().let { true }
-                R.id.mnuSearch -> toggleSearchVisible().let { true }
+                R.id.mnuSave -> save().let { true }
                 else -> false
             }
         }
     }
 
-    private fun deleteAll() {
-        // ...
-    }
-
-    private fun toggleSearchVisible() {
+    private fun save() {
         // ...
     }
 

@@ -1,4 +1,4 @@
-package es.iessaladillo.pedrojoya.tipcalculator.utils
+package es.iessaladillo.pedrojoya.walkingdead.utils
 
 import android.view.Menu
 import android.view.MenuInflater

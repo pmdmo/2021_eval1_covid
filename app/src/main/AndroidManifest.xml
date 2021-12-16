@@ -11,14 +11,13 @@
         android:theme="@style/Theme.TipCalculator"
         android:fullBackupContent="@xml/backup_descriptor">
         <activity
-            android:name=".ui.tips.TipsActivity"
-            android:label="@string/tips"
-            android:parentActivityName=".ui.main.MainActivity"
+            android:name="es.iessaladillo.pedrojoya.walkingdead.ui.add_character.AddCharacterActivity"
+            android:label="@string/add_character"
+            android:parentActivityName="es.iessaladillo.pedrojoya.walkingdead.ui.characters.MainActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.main.MainActivity"
-            android:exported="true"
-            android:windowSoftInputMode="stateVisible|adjustPan">
+            android:name="es.iessaladillo.pedrojoya.walkingdead.ui.characters.MainActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
